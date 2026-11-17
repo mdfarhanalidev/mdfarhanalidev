@@ -15,8 +15,8 @@ projects along the way.
     collaboration
 -   💬 **Ask me about:** Physics, astronomy, science projects, and
     beginner programming
--
-------------------------------------------------------------------------
+
+
 
 ## 🚀 Projects & Interests
 
